@@ -1,0 +1,87 @@
+﻿[2018-12-10 16:45:10,425][DESKTOP-F8RIQSQ][One.AOPDemo(1964)][INFO ] One.AOPDemo started!
+[2018-12-10 16:45:21,740][DESKTOP-F8RIQSQ][One.AOPDemo(1964)][ERROR] Exception occurred: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 One.AOPDemo.Main.<Work>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 One.AOPDemo.Program.<Main>d__1.MoveNext()
+[2018-12-10 16:45:27,977][DESKTOP-F8RIQSQ][One.AOPDemo(1964)][INFO ] One.AOPDemo finished! Time taken: 17.510 secs
+[2018-12-10 16:51:19,021][DESKTOP-F8RIQSQ][One.AOPDemo(10984)][INFO ] One.AOPDemo started!
+[2018-12-10 16:51:43,521][DESKTOP-F8RIQSQ][One.AOPDemo(10984)][ERROR] Exception occurred: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 One.AOPDemo.Main.<Work>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 One.AOPDemo.Program.<Main>d__1.MoveNext()
+[2018-12-10 16:52:08,153][DESKTOP-F8RIQSQ][One.AOPDemo(10984)][INFO ] One.AOPDemo finished! Time taken: 49.093 secs
+[2018-12-10 16:52:11,203][DESKTOP-F8RIQSQ][One.AOPDemo(16496)][INFO ] One.AOPDemo started!
+[2018-12-10 16:52:16,396][DESKTOP-F8RIQSQ][One.AOPDemo(16496)][ERROR] Exception occurred: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 One.AOPDemo.Main.<Work>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 One.AOPDemo.Program.<Main>d__1.MoveNext()
+[2018-12-10 16:53:43,170][DESKTOP-F8RIQSQ][One.AOPDemo(16496)][INFO ] One.AOPDemo finished! Time taken: 5.693 secs
+[2018-12-10 16:53:46,343][DESKTOP-F8RIQSQ][One.AOPDemo(7188)][INFO ] One.AOPDemo started!
+[2018-12-10 16:53:51,903][DESKTOP-F8RIQSQ][One.AOPDemo(7188)][ERROR] Exception occurred: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 One.AOPDemo.Main.<Work>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 One.AOPDemo.Program.<Main>d__1.MoveNext()
+[2018-12-10 16:53:54,105][DESKTOP-F8RIQSQ][One.AOPDemo(7188)][INFO ] One.AOPDemo finished! Time taken: 6.901 secs
+[2018-12-10 16:55:45,124][DESKTOP-F8RIQSQ][One.AOPDemo(8412)][INFO ] One.AOPDemo started!
+[2018-12-10 16:57:15,144][DESKTOP-F8RIQSQ][One.AOPDemo(8412)][ERROR] Exception occurred: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 One.AOPDemo.Main.<Work>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 One.AOPDemo.Program.<Main>d__1.MoveNext()
+[2018-12-10 16:57:15,157][DESKTOP-F8RIQSQ][One.AOPDemo(8412)][INFO ] One.AOPDemo finished! Time taken: 89.995 secs
+[2018-12-10 16:57:17,607][DESKTOP-F8RIQSQ][One.AOPDemo(16936)][INFO ] One.AOPDemo started!
+[2018-12-10 17:04:39,160][DESKTOP-F8RIQSQ][One.AOPDemo(12720)][INFO ] One.AOPDemo started!
+[2018-12-10 17:04:39,679][DESKTOP-F8RIQSQ][One.AOPDemo(12720)][INFO ] One.AOPDemo finished! Time taken: 0.474 secs
+[2018-12-10 17:09:28,074][DESKTOP-F8RIQSQ][One.AOPDemo(16920)][INFO ] One.AOPDemo started!
+[2018-12-10 17:09:28,588][DESKTOP-F8RIQSQ][One.AOPDemo(16920)][INFO ] One.AOPDemo finished! Time taken: 0.475 secs
+[2018-12-10 17:10:22,062][DESKTOP-F8RIQSQ][One.AOPDemo(17584)][INFO ] One.AOPDemo started!
+[2018-12-10 17:10:22,608][DESKTOP-F8RIQSQ][One.AOPDemo(17584)][INFO ] One.AOPDemo finished! Time taken: 0.502 secs
+[2018-12-10 17:19:18,779][DESKTOP-F8RIQSQ][One.AOPDemo(16068)][INFO ] One.AOPDemo started!
+[2018-12-10 17:19:19,155][DESKTOP-F8RIQSQ][One.AOPDemo(16068)][INFO ] One.AOPDemo finished! Time taken: 0.335 secs
+[2018-12-10 17:19:41,868][DESKTOP-F8RIQSQ][One.AOPDemo(18244)][INFO ] One.AOPDemo started!
+[2018-12-10 17:20:00,061][DESKTOP-F8RIQSQ][One.AOPDemo(4340)][INFO ] One.AOPDemo started!
+[2018-12-10 17:20:05,682][DESKTOP-F8RIQSQ][One.AOPDemo(4340)][ERROR] Exception occurred: System.Exception: 密码不得为空
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 DynamicModule.ns.Wrapped_IUser_77e1d447d81e4a76bb9551a0e16de9f9.RegUser(User user)
+   在 One.AOPDemo.Main.<Work>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   在 One.AOPDemo.Program.<Main>d__1.MoveNext()
+[2018-12-10 17:20:05,696][DESKTOP-F8RIQSQ][One.AOPDemo(4340)][INFO ] One.AOPDemo finished! Time taken: 5.596 secs
+[2018-12-10 17:21:15,813][DESKTOP-F8RIQSQ][One.AOPDemo(13168)][INFO ] One.AOPDemo started!
+[2018-12-10 17:21:19,282][DESKTOP-F8RIQSQ][One.AOPDemo(13168)][INFO ] One.AOPDemo finished! Time taken: 3.434 secs
+[2018-12-10 17:22:43,265][DESKTOP-F8RIQSQ][One.AOPDemo(6004)][INFO ] One.AOPDemo started!
+[2018-12-10 17:22:43,636][DESKTOP-F8RIQSQ][One.AOPDemo(6004)][INFO ] One.AOPDemo finished! Time taken: 0.329 secs
+[2018-12-10 17:23:31,805][DESKTOP-F8RIQSQ][One.AOPDemo(6004)][INFO ] One.AOPDemo started!
+[2018-12-10 17:23:32,138][DESKTOP-F8RIQSQ][One.AOPDemo(6004)][INFO ] One.AOPDemo finished! Time taken: 0.295 secs
+[2018-12-10 17:33:03,278][DESKTOP-F8RIQSQ][One.AOPDemo(1124)][INFO ] One.AOPDemo started!
+[2018-12-10 17:33:22,519][DESKTOP-F8RIQSQ][One.AOPDemo(1124)][INFO ] One.AOPDemo finished! Time taken: 19.198 secs
+[2018-12-10 17:34:41,795][DESKTOP-F8RIQSQ][One.AOPDemo(11140)][INFO ] One.AOPDemo started!
+[2018-12-10 17:35:07,198][DESKTOP-F8RIQSQ][One.AOPDemo(11140)][INFO ] One.AOPDemo finished! Time taken: 24.926 secs
+[2018-12-10 17:38:04,201][DESKTOP-F8RIQSQ][One.AOPDemo(2516)][INFO ] One.AOPDemo started!
+[2018-12-10 17:38:04,792][DESKTOP-F8RIQSQ][One.AOPDemo(2516)][INFO ] One.AOPDemo finished! Time taken: 0.552 secs
+[2018-12-10 17:38:44,145][DESKTOP-F8RIQSQ][One.AOPDemo(9792)][INFO ] One.AOPDemo started!
+[2018-12-10 17:38:44,679][DESKTOP-F8RIQSQ][One.AOPDemo(9792)][INFO ] One.AOPDemo finished! Time taken: 0.494 secs
+[2018-12-10 17:39:12,692][DESKTOP-F8RIQSQ][One.AOPDemo(4336)][INFO ] One.AOPDemo started!
+[2018-12-10 17:39:13,241][DESKTOP-F8RIQSQ][One.AOPDemo(4336)][INFO ] One.AOPDemo finished! Time taken: 0.509 secs
+[2018-12-10 17:39:34,731][DESKTOP-F8RIQSQ][One.AOPDemo(18364)][INFO ] One.AOPDemo started!
+[2018-12-11 15:06:09,385][DESKTOP-F8RIQSQ][One.AOPDemo(4032)][INFO ] One.AOPDemo started!
+[2018-12-11 15:06:09,431][DESKTOP-F8RIQSQ][One.AOPDemo(4032)][INFO ] One.AOPDemo finished! Time taken: 0.001 secs
+[2018-12-11 15:06:33,818][DESKTOP-F8RIQSQ][One.AOPDemo(11584)][INFO ] One.AOPDemo started!
+[2018-12-11 15:06:33,907][DESKTOP-F8RIQSQ][One.AOPDemo(11584)][INFO ] One.AOPDemo finished! Time taken: 0.009 secs
